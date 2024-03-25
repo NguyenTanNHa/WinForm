@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\bin\Debug\net8.0-windows\Ass01_Window7Calculator.exe
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\bin\Debug\net8.0-windows\Ass01_Window7Calculator.deps.json
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\bin\Debug\net8.0-windows\Ass01_Window7Calculator.runtimeconfig.json
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\bin\Debug\net8.0-windows\Ass01_Window7Calculator.dll
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\bin\Debug\net8.0-windows\Ass01_Window7Calculator.pdb
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.Form1.resources
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.dll
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\refint\Ass01_Window7Calculator.dll
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.pdb
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\ref\Ass01_Window7Calculator.dll
+C:\Users\Lenovo\Desktop\WinForm (Exercises)\WF basic\Ass01_Window7Calculator\Ass01_Window7Calculator\obj\Debug\net8.0-windows\Ass01_Window7Calculator.Properties.Resources.resources
