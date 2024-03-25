@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UserControl đồng hồ đếm ngược/1.0.0": {
+        "runtime": {
+          "UserControl đồng hồ đếm ngược.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserControl đồng hồ đếm ngược/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\bin\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\bin\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.deps.json
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\bin\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.runtimeconfig.json
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\bin\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.dll
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\bin\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl_đồng_hồ_đếm_ngược.Form1.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl_đồng_hồ_đếm_ngược.UCDongHoDemNguoc.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.csproj.GenerateResource.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.GeneratedMSBuildEditorConfig.editorconfig
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.AssemblyInfoInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.AssemblyInfo.cs
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.dll
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\refint\UserControl đồng hồ đếm ngược.dll
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl đồng hồ đếm ngược.genruntimeconfig.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\ref\UserControl đồng hồ đếm ngược.dll
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\TUẦN 5\UserControl đồng hồ đếm ngược\UserControl đồng hồ đếm ngược\obj\Debug\net8.0-windows\UserControl_đồng_hồ_đếm_ngược.Properties.Resources.resources
