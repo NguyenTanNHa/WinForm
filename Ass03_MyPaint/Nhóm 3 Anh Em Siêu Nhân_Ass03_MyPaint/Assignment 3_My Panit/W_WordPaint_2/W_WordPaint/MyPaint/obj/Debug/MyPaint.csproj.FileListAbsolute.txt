@@ -1,0 +1,71 @@
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\trieu\OneDrive\Máy tính\DEADLINE\DeadLine 2\MyPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\Dell\OneDrive\Máy tính\paint\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+C:\Users\phat\Documents\Zalo Received Files\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Assignment 3_My Panit\W_WordPaint_Anh Phát\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe.config
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\bin\Debug\MyPaint.pdb
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.AssemblyReference.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Paint.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.Properties.Resources.resources
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.GenerateResource.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.exe
+D:\LẬP TRÌNH GIAO DIỆN ỨNG DỤNG\Nhóm 3 Anh Em Siêu Nhân_Ass03_MyPaint\Assignment 3_My Panit\W_WordPaint_2\W_WordPaint\MyPaint\obj\Debug\MyPaint.pdb
