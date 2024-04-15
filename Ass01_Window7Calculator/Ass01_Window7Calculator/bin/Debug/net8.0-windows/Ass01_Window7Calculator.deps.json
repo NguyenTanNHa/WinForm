@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ass01_Window7Calculator/1.0.0": {
+        "runtime": {
+          "Ass01_Window7Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ass01_Window7Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
